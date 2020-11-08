@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi! I'm Allief Nuriman, but you can call me Alif. I'm from Indonesia
+
+### I'm a student at Institut Teknologi Bandung (Bandung Institute of Technology / Institute of Technology Bandung).
+
+### I'm currently working on a project for my portofolio
+
+### I am interested in: Cybersecurity, privacy, and 
+
+### How to reach me: allief.876@gmail.com
 
 <!--
 **allief876/allief876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
