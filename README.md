@@ -8,7 +8,7 @@ I'm interested in: Cybersecurity, privacy, and web development
 
 You can reach me in allief.876@gmail.com
 
-My [public key](pgp_publickey.txt) in case the email need to be encrypted
+My [public key](pgp_publickey.txt) in case you need to send encrypted email to me.
 
 <!--
 **allief876/allief876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
