@@ -8,7 +8,7 @@ I'm interested in: Cybersecurity, privacy, and web development
 
 You can reach me in alliefnuriman@gmail.com
 
-My [public key](Allief Nuriman_0xAA6445A8_public.asc) in case you need to send encrypted email to me.
+My [public key](key.asc) in case you need to send encrypted email to me.
 
 <!--
 **allief876/allief876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
