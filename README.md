@@ -6,7 +6,7 @@ I'm currently working on a project for my portofolio
 
 I'm interested in: Cybersecurity, privacy, and web development
 
-You can reach me in allief.876@gmail.com
+You can reach me in alliefnuriman@gmail.com
 
 My [public key](pgp_publickey.txt) in case you need to send encrypted email to me.
 
