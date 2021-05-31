@@ -1,4 +1,4 @@
-👋 Hi! I'm Allief Nuriman, but you can call me Alif. I'm from Indonesia
+👋 Hi! I'm Alif.
 
 I'm a student at Institut Teknologi Bandung (Bandung Institute of Technology / Institute of Technology Bandung).
 
