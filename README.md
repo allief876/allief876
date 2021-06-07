@@ -1,10 +1,8 @@
 👋 Hi! I'm Alif.
 
-I'm a student at Institut Teknologi Bandung (Bandung Institute of Technology / Institute of Technology Bandung).
+I'm a Computer Science student at Institut Teknologi Bandung
 
-I'm currently working on a project for my portofolio
-
-I'm interested in: Cybersecurity, privacy, and web development
+Interest: Cybersecurity, privacy, and web development
 
 You can reach me in alliefnuriman@gmail.com
 
